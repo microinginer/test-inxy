@@ -1,7 +1,7 @@
 <?php
 
-use App\Http\Controllers\API\TransactionController;
-use App\Http\Controllers\API\UserController;
+use App\Http\Controllers\Api\TransactionController;
+use App\Http\Controllers\Api\UserController;
 use Illuminate\Support\Facades\Route;
 
 
